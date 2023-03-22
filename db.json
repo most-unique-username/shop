@@ -1,11 +1,19 @@
 {
-  "posts": [
+  "goods": [
     {
-      "id": 1,
-      "title": "hello"
+      "barcode":
+      "name": 1,
+      "sizeType"
+      "size"
+      "country"
+      "brand"
+      "description"
+      "price"
+      "url": "https://via.placeholder.com/600/24f355",
+      
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "most-unique-username"
   }
 }
