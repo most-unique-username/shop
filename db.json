@@ -9,11 +9,10 @@
       "brand":1,
       "description":1,
       "price":1,
-      "url": "https://via.placeholder.com/600/24f355",
-      
+      "url": "https://via.placeholder.com/600/24f355",      
     }
   ],
   "profile": {
-    "name": "most-unique-username"
+    "name": "most-unique-username",
   }
 }
