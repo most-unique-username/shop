@@ -1,14 +1,14 @@
 {
   "goods": [
     {
-      "barcode":
+      "barcode":1,
       "name": 1,
-      "sizeType"
-      "size"
-      "country"
-      "brand"
-      "description"
-      "price"
+      "sizeType":1,
+      "size":1,
+      "country":1,
+      "brand":1,
+      "description":1,
+      "price":1,
       "url": "https://via.placeholder.com/600/24f355",
       
     }
